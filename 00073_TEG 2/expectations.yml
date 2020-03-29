@@ -1,0 +1,20 @@
+---
+expectations:
+- binding: ocupaContinente
+  inspection: HasBinding
+- binding: estaPeleado
+  inspection: HasBinding
+- binding: seAtrinchero
+  inspection: HasBinding
+- binding: ocupaContinente
+  inspection: HasUsage:estaEn
+- binding: ocupaContinente
+  inspection: HasUsage:ocupa
+- binding: estaPeleado
+  inspection: HasUsage:estaEn
+- binding: estaPeleado
+  inspection: HasUsage:ocupa
+- binding: seAtrinchero
+  inspection: HasUsage:estaEn
+- binding: seAtrinchero
+  inspection: HasUsage:ocupa

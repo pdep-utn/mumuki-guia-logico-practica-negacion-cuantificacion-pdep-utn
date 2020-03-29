@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: carilindo
+  inspection: HasBinding
+- binding: simpatico
+  inspection: HasBinding
+- binding: puedeIr
+  inspection: HasBinding

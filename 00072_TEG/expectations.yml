@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: puedenAtacarse
+  inspection: HasBinding
+- binding: loLiquidaron
+  inspection: HasBinding
+- binding: puedenAtacarse
+  inspection: HasUsage:sonLimitrofes
+- binding: puedenAtacarse
+  inspection: HasUsage:ocupa
+- binding: puedenAtacarse
+  inspection: HasUsage:aliados
+- binding: loLiquidaron
+  inspection: HasUsage:ocupa

@@ -1,0 +1,1 @@
+¡No hace falta pensar un algoritmo! Pensalo en términos de para todo o no existencia :wink:

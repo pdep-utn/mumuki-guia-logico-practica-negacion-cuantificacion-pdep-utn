@@ -1,0 +1,1 @@
+Esta práctica te va a servir para sentar las bases de la lógica más avanzada, con negación y cuantificadores existenciales y universales. ¡No hay tiempo que perder, a ejercitar!
