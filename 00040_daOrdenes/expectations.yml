@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: daOrdenes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: daOrdenes
   inspection: HasBinding
-- binding: empleado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: empleado
   inspection: Not:HasBinding
-- binding: daOrdenes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: daOrdenes
   inspection: HasUsage:empleado

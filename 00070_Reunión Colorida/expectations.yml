@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: puedeIluminarseCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedeIluminarseCon
   inspection: HasBinding

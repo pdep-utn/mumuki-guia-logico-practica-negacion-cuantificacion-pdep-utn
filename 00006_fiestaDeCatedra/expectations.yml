@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: carilindo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: carilindo
   inspection: HasBinding
-- binding: simpatico
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: simpatico
   inspection: HasBinding
-- binding: puedeIr
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedeIr
   inspection: HasBinding

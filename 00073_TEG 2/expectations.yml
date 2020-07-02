@@ -1,20 +1,29 @@
 ---
 expectations:
-- binding: ocupaContinente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ocupaContinente
   inspection: HasBinding
-- binding: estaPeleado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estaPeleado
   inspection: HasBinding
-- binding: seAtrinchero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: seAtrinchero
   inspection: HasBinding
-- binding: ocupaContinente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ocupaContinente
   inspection: HasUsage:estaEn
-- binding: ocupaContinente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ocupaContinente
   inspection: HasUsage:ocupa
-- binding: estaPeleado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estaPeleado
   inspection: HasUsage:estaEn
-- binding: estaPeleado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estaPeleado
   inspection: HasUsage:ocupa
-- binding: seAtrinchero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: seAtrinchero
   inspection: HasUsage:estaEn
-- binding: seAtrinchero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: seAtrinchero
   inspection: HasUsage:ocupa

@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: trabajaCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: trabajaCon
   inspection: HasBinding
-- binding: trabajaCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: trabajaCon
   inspection: HasUsage:trabajaEn
-- binding: trabajaCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: trabajaCon
   inspection: Not:HasUsage:Not

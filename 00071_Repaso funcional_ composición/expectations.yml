@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: tipoDeLaComposicion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tipoDeLaComposicion
   inspection: HasBinding
-- binding: tipoDeLaComposicion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tipoDeLaComposicion
   inspection: HasArity:4

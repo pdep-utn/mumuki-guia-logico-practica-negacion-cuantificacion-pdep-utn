@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: puedenAtacarse
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedenAtacarse
   inspection: HasBinding
-- binding: loLiquidaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: loLiquidaron
   inspection: HasBinding
-- binding: puedenAtacarse
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedenAtacarse
   inspection: HasUsage:sonLimitrofes
-- binding: puedenAtacarse
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedenAtacarse
   inspection: HasUsage:ocupa
-- binding: puedenAtacarse
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puedenAtacarse
   inspection: HasUsage:aliados
-- binding: loLiquidaron
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: loLiquidaron
   inspection: HasUsage:ocupa
