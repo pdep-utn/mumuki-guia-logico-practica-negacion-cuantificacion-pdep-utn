@@ -1,4 +1,4 @@
-test(el_mas_fuerte_es_canada):-
+test(el_mas_fuerte_es_canada, nondet):-
   elPaisMasFuerte(canada).
   
 test(el_mas_fuerte_no_debe_ser_yukon, fail):-
