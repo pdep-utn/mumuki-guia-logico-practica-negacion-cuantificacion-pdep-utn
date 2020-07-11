@@ -1,4 +1,4 @@
-Se dice que una reunión puede iluminarse con un color si entre los asistentes a la reunión hay una pareja (dos personas de distinto sexo) a quienes les atrae el color.
+Se dice que una reunión puede iluminarse con un color si entre los asistentes a la reunión hay una pareja a quienes les atrae el color.
 
 > Incluí en el programa anterior la siguiente información:
 > 
