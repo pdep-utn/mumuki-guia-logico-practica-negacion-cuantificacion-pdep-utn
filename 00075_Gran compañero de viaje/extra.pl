@@ -3,6 +3,7 @@ destino(pepe, jartum).
 destino(pepe, roma).
 destino(pepe, varna).
 destino(juancho, roma).
+destino(juancho, belgrado).
 destino(lucy, roma).
 destino(lucy, belgrado).
  

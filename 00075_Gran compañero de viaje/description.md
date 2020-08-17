@@ -5,6 +5,7 @@ destino(pepe, alejandria).
 destino(pepe, jartum).
 destino(pepe, roma).
 destino(juancho, roma).
+destino(juancho, belgrado).
 destino(lucy, roma).
 destino(lucy, belgrado).
 
