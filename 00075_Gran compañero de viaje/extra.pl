@@ -13,5 +13,6 @@ idioma(roma, italiano).
 habla(pepe,bulgaro).
 habla(pepe,italiano).
 habla(juancho,arabe).
+habla(juancho, italiano).
 habla(lucy,griego).
  
