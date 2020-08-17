@@ -3,6 +3,7 @@ Tenemos una base de conocimientos como la siguiente:
 ```prolog 
 destino(pepe, alejandria).
 destino(pepe, jartum).
+destino(pepe, varna).
 destino(pepe, roma).
 destino(juancho, roma).
 destino(lucy, roma).
@@ -12,6 +13,7 @@ idioma(alejandria,arabe).
 idioma(jartum, arabe).
 idioma(belgrado, serbio).
 idioma(roma, italiano).
+idioma(varna, bulgaro).
 
 habla(pepe, bulgaro).
 habla(pepe, italiano).
