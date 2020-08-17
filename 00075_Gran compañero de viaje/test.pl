@@ -1,7 +1,7 @@
 test(juancho_es_gran_companiero_para_pepe, nondet):-
 	granCompanieroDeViaje(pepe, juancho).
 	
-test(pepe_no_es_gran_companiero_para_juancho, nondet):-
+test(pepe_no_es_gran_companiero_para_juancho, fail):-
 	granCompanieroDeViaje(juancho, pepe).
  
 test(lucy_no_es_gran_companiera_para_pepe, fail):-
