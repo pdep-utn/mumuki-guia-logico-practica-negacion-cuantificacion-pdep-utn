@@ -9,7 +9,7 @@ destino(juancho, belgrado).
 destino(lucy, roma).
 destino(lucy, belgrado).
 
-idioma(alejandria,arabe).
+idioma(alejandria, arabe).
 idioma(jartum, arabe).
 idioma(belgrado, serbio).
 idioma(roma, italiano).
